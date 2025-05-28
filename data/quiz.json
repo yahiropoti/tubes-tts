@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "question": "Apa yang dilakukan si Kancil di sungai?",
+      "options": ["Bermain", "Menolong buaya", "Menyeberangi sungai"],
+      "answer": "Menyeberangi sungai"
+    },
+    {
+      "question": "Apa yang dilakukan semut terhadap gajah?",
+      "options": ["Membantu", "Memberi pelajaran", "Menghindar"],
+      "answer": "Memberi pelajaran"
+    }
+  ]
+}
+

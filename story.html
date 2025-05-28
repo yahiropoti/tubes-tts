@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baca Cerita</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <header>
+    <h1 id="title">Judul Cerita</h1>
+  </header>
+
+  <main>
+    <div id="story-container" class="story-text"></div>
+
+    <div class="controls">
+      <button onclick="toggleSpeech()">⏯ Pause/Lanjut</button>
+      <button onclick="location.href='quiz.html'">🧠 Mini Kuis</button>
+    </div>
+
+    <div class="personalization">
+    <h3>Personalisasi Tampilan</h3>
+    <label>Ukuran Font:
+      <select id="font-size-selector">
+        <option value="16px">Kecil</option>
+        <option value="20px" selected>Sedang</option>
+        <option value="24px">Besar</option>
+      </select>
+    </label>
+
+    <label>Warna Latar:
+      <select id="bg-color-selector">
+        <option value="#ffffff">Putih</option>
+        <option value="#fdf6e3" selected>Krem</option>
+        <option value="#eeeeee">Abu terang</option>
+      </select>
+    </label>
+
+    <label>Warna Teks:
+      <select id="text-color-selector">
+        <option value="#000000" selected>Hitam</option>
+        <option value="#1a237e">Biru Tua</option>
+        <option value="#4e342e">Cokelat Gelap</option>
+      </select>
+    </label>
+  </div>
+  </main>
+
+  <footer>
+    <p>Gunakan font disleksia & TTS untuk bantu membaca!</p>
+  </footer>
+
+  <script src="js/tts.js"></script>
+</body>
+</html>

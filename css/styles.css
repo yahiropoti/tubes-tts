@@ -1,0 +1,121 @@
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('../assets/font/OpenDyslexic-Regular.otf') format('opentype');
+}
+
+body {
+  font-family: 'OpenDyslexic', sans-serif;
+  background-color: #fdf6e3;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+header, footer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.story-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.story-grid div {
+  background: #fff;
+  border: 2px solid #4fa3f7;
+  padding: 15px;
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.story-grid div:hover {
+  transform: scale(1.05);
+  background-color: #e0f0ff;
+}
+
+.story-text {
+  font-size: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.controls button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-right: 10px;
+  background-color: #4fa3f7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background-color: #378bd2;
+}
+
+mark {
+  background-color: yellow;
+}
+
+.personalization {
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+}
+
+.personalization label {
+  display: block;
+  margin: 8px 0;
+}
+
+.personalization select {
+  padding: 5px;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.quiz-question {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+#submit-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4fa3f7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#submit-btn:hover {
+  background-color: #2f78c4;
+}
+
+#score-result {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('D:\Campus Material\Semester 6\tts\tubes\assets\font\OpenDyslexic-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
