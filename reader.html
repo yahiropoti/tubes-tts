@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pembaca Cerita</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>📖 Pembaca Cerita</h1>
+    <p id="story-title">Judul Cerita</p>
+  </header>
+
+  <main>
+    <!-- Konten Cerita -->
+    <div class="reader-box">
+      <div id="story-text" class="story-text">
+        <!-- Teks cerita akan ditampilkan di sini -->
+      </div>
+    </div>
+
+    <!-- Pengaturan Suara -->
+    <section class="voice-settings">
+      <h3>⚙️ Pengaturan Suara</h3>
+      <label for="voiceSelect">Jenis Suara:</label>
+      <select id="voiceSelect"></select>
+
+      <label for="rate">Kecepatan:</label>
+      <input type="range" id="rate" min="0.5" max="2" step="0.1" value="1">
+
+      <label for="pitch">Nada:</label>
+      <input type="range" id="pitch" min="0" max="2" step="0.1" value="1">
+
+      <label for="volume">🔊 Volume:</label>
+      <input type="range" id="volume" min="0" max="1" step="0.1" value="1">
+    </section>
+
+    <!-- Kontrol TTS -->
+    <section class="tts-controls">
+      <h3>⚙️ Pratinjau Kontrol</h3>
+      <button onclick="speakStory()" class="btn-play">▶️ Dengarkan</button>
+      <button onclick="stopSpeech()" class="btn-stop">⏹️ Berhenti</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 | Dyslexic Application For Kids</p>
+  </footer>
+
+  <script src="js/reader.js"></script>
+</body>
+</html>
