@@ -1,47 +1,79 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pembaca Cerita</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
   <header>
     <h1>📖 Pembaca Cerita</h1>
-    <p id="story-title">Judul Cerita</p>
+    <p id="story-title" class="subtitle"></p>
   </header>
 
   <main>
-    <!-- Konten Cerita -->
-    <div class="reader-box">
-      <div id="story-text" class="story-text">
-        <!-- Teks cerita akan ditampilkan di sini -->
+    <section class="reader-box">
+      <div class="personalization">
+        <h3>Personalisasi Tampilan</h3>
+        <label>Ukuran Font:
+          <select id="font-size">
+            <option value="16px">Kecil</option>
+            <option value="20px">Sedang</option>
+            <option value="24px">Besar</option>
+          </select>
+        </label>
+        <label>Warna Latar:
+          <select id="bg-color">
+            <option value="#ffffff">Putih</option>
+            <option value="#fef6e4">Krem</option>
+            <option value="#f0f0f0">Abu Muda</option>
+          </select>
+        </label>
+        <label>Warna Teks:
+          <select id="text-color">
+            <option value="#000000">Hitam</option>
+            <option value="#333333">Abu Tua</option>
+            <option value="#005792">Biru Tua</option>
+          </select>
+        </label>
       </div>
+
+      <div id="story-content" class="story-text">
+        <em>Memuat cerita...</em>
+      </div>
+    </section>
+
+    <div class="bottom-panel">
+      <section class="voice-settings">
+        <h4>🔊 Pengaturan Suara</h4>
+        <label for="voice-select">Suara Bahasa Indonesia:</label>
+        <select id="voice-select">
+          <option>Memuat suara...</option>
+        </select>
+
+        <label for="rate">Kecepatan:</label>
+        <input type="range" id="rate" min="0.5" max="2" step="0.1" value="1">
+
+        <label for="pitch">Nada:</label>
+        <input type="range" id="pitch" min="0" max="2" step="0.1" value="1">
+
+        <label for="volume">Volume:</label>
+        <input type="range" id="volume" min="0" max="1" step="0.1" value="1">
+      </section>
+
+      <section class="tts-controls">
+        <h4>🎛️ Pratinjau Kontrol</h4>
+        <button class="btn-play" onclick="playSpeech()">▶️ Play</button>
+        <button class="btn-pause" onclick="pauseSpeech()">⏸️ Pause</button>
+        <button class="btn-stop" onclick="stopSpeech()">⏹️ Stop</button>
+      </section>
+
+      <section class="quiz-section">
+        <p>Apakah kamu sudah siap lanjut Quiz? Ayo kerjakan sekarang!</p>
+        <button onclick="location.href='quiz.html'">🎯 Mini Kuis</button>
+      </section>
     </div>
-
-    <!-- Pengaturan Suara -->
-    <section class="voice-settings">
-      <h3>⚙️ Pengaturan Suara</h3>
-      <label for="voiceSelect">Jenis Suara:</label>
-      <select id="voiceSelect"></select>
-
-      <label for="rate">Kecepatan:</label>
-      <input type="range" id="rate" min="0.5" max="2" step="0.1" value="1">
-
-      <label for="pitch">Nada:</label>
-      <input type="range" id="pitch" min="0" max="2" step="0.1" value="1">
-
-      <label for="volume">🔊 Volume:</label>
-      <input type="range" id="volume" min="0" max="1" step="0.1" value="1">
-    </section>
-
-    <!-- Kontrol TTS -->
-    <section class="tts-controls">
-      <h3>⚙️ Pratinjau Kontrol</h3>
-      <button onclick="speakStory()" class="btn-play">▶️ Dengarkan</button>
-      <button onclick="stopSpeech()" class="btn-stop">⏹️ Berhenti</button>
-    </section>
   </main>
 
   <footer>

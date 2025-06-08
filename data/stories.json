@@ -1,12 +1,19 @@
 {
   "stories": [
-    {
-      "title": "Si Kancil dan Buaya",
-      "text": "Pada suatu hari, si Kancil ingin menyeberangi sungai. Ia melihat banyak buaya dan mendapat ide cerdik."
-    },
-    {
-      "title": "Gajah dan Semut",
-      "text": "Gajah besar suka meremehkan binatang kecil. Tapi semut bisa memberi pelajaran penting."
-    }
+    { "title": "Aini Dan Burung Kecil", "file": "Aini Dan Burung Kecil.txt" },
+    { "title": "Balas Budi Burung Bangau", "file": "Balas Budi Burung Bangau.txt" },
+    { "title": "Buaya Yang Tidak Jujur", "file": "Buaya Yang Tidak Jujur.txt" },
+    { "title": "Faiz Sayang Kepada Adik", "file": "Faiz Sayang Kepada Adik.txt" },
+    { "title": "Haydar Tidak Tidur Saat Tarawih", "file": "Haydar Tidak Tidur Saat Tarawih.txt" },
+    { "title": "Keluarga Kelinci", "file": "Keluarga Kelinci.txt" },
+    { "title": "Landak Yang Malang", "file": "Landak Yang Malang.txt" },
+    { "title": "Lebah Yang Sombong Dan Rakus", "file": "Lebah Yang Sombong Dan Rakus.txt" },
+    { "title": "Mendahulukan Posisi Tidur Menghadap Kiblat", "file": "Mendahulukan Posisi Tidur Menghadap Kiblat.txt" },
+    { "title": "Menghormati Orang Yang Lebih Tua", "file": "Menghormati Orang Yang Lebih Tua.txt" },
+    { "title": "Perbedaan Salat Laki Dan Perempuan", "file": "Perbedaan Salat Laki Dan Perempuan.txt" },
+    { "title": "Persahabatan Yang Saling Menasihati", "file": "Persahabatan yang saling Menasihati.txt" },
+    { "title": "Sopan Santun Kepada Kakek Dan Nenek", "file": "Sopan Santun kepada Kakek dan Nenek.txt" },
+    { "title": "Teman Baru", "file": "Teman Baru.txt" },
+    { "title": "Uswah Cinta Al-Qur’an", "file": "Uswah Cinta Al-Qur’an.txt" }
   ]
 }

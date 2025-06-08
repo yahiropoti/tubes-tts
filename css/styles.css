@@ -1,242 +1,243 @@
+/* === Font Dyslexic === */
 @font-face {
   font-family: 'OpenDyslexic';
   src: url('../assets/font/OpenDyslexic-Regular.otf') format('opentype');
 }
 
+/* === Global Styles === */
 body {
   font-family: 'OpenDyslexic', sans-serif;
-  background-color: #fef6e4;
+  background-color: #fdf6e3;
   margin: 0;
   padding: 0;
-  text-align: center;
   color: #222;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+  padding-bottom: 40px;
 }
 
 header {
-  padding: 15px 15px 15px;
+  text-align: center;
+  padding: 20px;
+  background-color: #e8dcb8;
+  border-bottom: 2px solid #d6c39c;
 }
 
-h1 {
+header h1 {
   font-size: 2.2rem;
-  margin-bottom: 10px;
+  margin: 0;
+}
+
+header p {
+  font-size: 1rem;
+  margin: 5px 0 0;
 }
 
 h2 {
   font-size: 1.6rem;
   margin: 30px 0 20px;
+  text-align: center;
 }
 
+/* === Footer === */
+footer {
+  background-color: #e8dcb8;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 0.9rem;
+  border-top: 2px solid #d6c39c;
+  box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+  margin-top: 40px;
+}
+
+
+/* === Button Global === */
+button {
+  font-family: 'OpenDyslexic', sans-serif;
+  cursor: pointer;
+}
+
+/* === Story Grid === */
 .story-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 30px;
-  max-width: 900px;
+  max-width: 1000px;
   margin: auto;
   padding: 0 20px 40px;
 }
 
 .story-card {
-  background: transparent;
-  border: none;
+  background: #fff;
+  border: 2px solid #4fa3f7;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.2s;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 200px; /* sesuaikan tinggi maksimal box */
-  padding: 10px;
 }
 
-.story-card h3 {
-  margin-bottom: 15px;
-  font-size: 1.1rem;
-  line-height: 1.4;
-}
-
-.story-card button {
-  background-color: #e8dcb8;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 30px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: 0.3s ease;
-  align-self: center; /* agar tetap di tengah dalam kartu */
-}
-
-
-.story-card button:hover {
-  background-color: #d6c39c;
-}
-
-footer {
-  background-color: #e8dcb8;
-  text-align: center;
-  padding: 20px 0;
-  font-size: 0.9rem;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-}
-
-
-
-
-body {
-  font-family: 'OpenDyslexic', sans-serif;
-  background-color: #fdf6e3;
-  color: #333;
-  margin: 0;
-  padding: 20px;
-  line-height: 1.6;
-}
-
-header, footer {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.story-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-}
-
-.story-grid div {
-  background: #fff;
-  border: 2px solid #4fa3f7;
-  padding: 15px;
-  border-radius: 12px;
-  cursor: pointer;
-  text-align: center;
-  transition: transform 0.2s;
-}
-
-.story-grid div:hover {
+.story-card:hover {
   transform: scale(1.05);
   background-color: #e0f0ff;
 }
 
-.story-text {
-  font-size: 20px;
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 12px;
-  margin-bottom: 20px;
+.story-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  line-height: 1.4;
 }
 
-.controls button {
-  padding: 10px 20px;
-  font-size: 16px;
-  margin-right: 10px;
+.story-card button {
   background-color: #4fa3f7;
-  color: white;
   border: none;
-  border-radius: 8px;
-  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-size: 1rem;
+  color: #fff;
+  transition: 0.3s ease;
+  align-self: center;
 }
 
-.controls button:hover {
+.story-card button:hover {
   background-color: #378bd2;
 }
 
-mark {
-  background-color: yellow;
-}
-
-.personalization {
-  background: #fff;
-  padding: 10px;
-  margin-bottom: 20px;
-  border: 2px dashed #ccc;
-  border-radius: 8px;
-}
-
-.personalization label {
-  display: block;
-  margin: 8px 0;
-}
-
-.personalization select {
-  padding: 5px;
-  font-size: 14px;
-  margin-left: 10px;
-}
-
-.quiz-question {
-  background: #fff;
-  border: 1px solid #ccc;
-  padding: 15px;
-  margin-bottom: 20px;
-  border-radius: 10px;
-}
-
-#submit-btn {
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: #4fa3f7;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  margin-top: 10px;
-}
-
-#submit-btn:hover {
-  background-color: #2f78c4;
-}
-
-#score-result {
-  margin-top: 20px;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: 'OpenDyslexic';
-  src: url('D:\Campus Material\Semester 6\tts\tubes\assets\font\OpenDyslexic-Regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-
+/* === Reader Page === */
 .reader-box {
-  background-color: #e8dcb8;
-  margin: 20px auto;
-  padding: 20px;
-  width: 80%;
+  background-color: #fdf2e9;
+  margin: 30px auto;
+  padding: 25px;
+  width: 85%;
+  border: 2px solid #ccc;
+  border-radius: 15px;
 }
 
-.story-text {
-  background: #fff;
-  padding: 20px;
-  font-family: 'OpenDyslexic', sans-serif;
+.reader-box .story-text {
   font-size: 18px;
   line-height: 1.8;
-  border-radius: 10px;
-}
-
-.voice-settings, .tts-controls {
-  background: #e8dcb8;
-  margin: 20px auto;
-  padding: 20px;
-  width: 80%;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 12px;
+  min-height: 200px;
   text-align: left;
 }
 
-button {
-  padding: 10px 20px;
-  margin-top: 10px;
-  border: none;
-  border-radius: 10px;
-  cursor: pointer;
-  font-size: 16px;
+.subtitle {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: -10px;
 }
 
-.btn-play {
+mark {
+  background-color: #ffe66d;
+  padding: 0 3px;
+  border-radius: 3px;
+}
+
+/* === Personalisasi Tampilan === */
+.personalization {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: #fffbe6;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px dashed #bbb;
+  margin-bottom: 20px;
+}
+
+.personalization label,
+.voice-settings label {
+  display: block;
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.personalization select,
+.voice-settings input[type="range"],
+.voice-settings select {
+  padding: 5px;
+  margin-top: 5px;
+  width: 100%;
+  max-width: 300px;
+  font-size: 14px;
+}
+
+/* === Bottom Panel === */
+.bottom-panel {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 30px auto;
+  max-width: 90%;
+  flex-wrap: wrap;
+}
+
+.bottom-panel section {
+  flex: 1;
+  min-width: 250px;
+}
+
+.voice-settings,
+.tts-controls,
+.quiz-section {
+  background-color: #fcefe3;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  height: 100%;
+}
+
+.voice-settings h4,
+.tts-controls h4 {
+  margin-bottom: 10px;
+}
+
+/* === Kontrol TTS === */
+.tts-controls button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  color: white;
+}
+
+.btn-play { background-color: #4fa3f7; }
+.btn-pause { background-color: #ffb347; }
+.btn-stop { background-color: #f77ba5; }
+
+.btn-play:hover { background-color: #2f78c4; }
+.btn-pause:hover { background-color: #e0952e; }
+.btn-stop:hover { background-color: #d25d85; }
+
+/* === Quiz Section === */
+.quiz-section {
+  text-align: center;
+}
+
+.quiz-section button {
   background-color: #4fa3f7;
   color: white;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
 }
 
-.btn-stop {
-  background-color: #f77ba5;
-  color: white;
+.quiz-section button:hover {
+  background-color: #2f78c4;
 }
