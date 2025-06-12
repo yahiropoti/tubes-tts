@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Cerita Hewan Yang Penuh Makna Kehidupan",
+      "filename": "Kumpulan_Fabel.pdf",
+      "description": "Kumpulan cerita tentang hewan yang penuh dengan makna kehidupan."
+    },
+    {
+      "title": "20 Cerita Anak Hebat",
+      "filename": "20_Cerita_Anak_Hebat.pdf",
+      "description": "Kumpulan cerita untuk mengajarkan nilai-nilai positif."
+    },
+    {
+      "title": "Petualangan Bebek",
+      "filename": "Petualangan_Bebek.pdf",
+      "description": "Kisah seekor bebek menjelajahi sungai yang bersih."
+    },
+    {
+      "title": "Kumpulan Cerita Dongeng Anak",
+      "filename": "Kumpulan_Cerita_Dongeng_Anak.pdf",
+      "description": "Berisi tentang cerita dongeng untuk anak anak."
+    }
+  ]
+}

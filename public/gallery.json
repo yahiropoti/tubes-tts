@@ -1,0 +1,764 @@
+{
+  "stories": [
+    {
+      "id": "539f53e5-429d-4e04-8f80-180b80478a0b",
+      "title": "Aini Dan Burung Kecil",
+      "file": "Aini Dan Burung Kecil.txt",
+      "image": "Aini Dan Burung Kecil.png",
+      "description": "Aini dan Burung Kecil bercerita tentang Aini yang mendapat burung cantik bernama Mungil di hari ulang tahunnya. Saat tahu Mungil tak bahagia di dalam sangkar, Aini melepaskannya. Meski sedih, ia ikhlas. Hingga suatu pagi, Mungil kembali dan bernyanyi untuknya. Kisah ini mengajarkan arti cinta dan keikhlasan.",
+      "quizzes": [
+        {
+          "question": "Apa yang membuat pesta ulang tahun Aini terlihat meriah?",
+          "option_a": "Ada banyak makanan",
+          "option_b": "Ada badut dan musik",
+          "option_c": "Halaman dihiasi balon, pita, dan bunga",
+          "option_d": "Semua teman datang",
+          "answer": "Halaman dihiasi balon, pita, dan bunga"
+        },
+        {
+          "question": "Apa isi kado besar berbungkus kain biru yang diterima Aini?",
+          "option_a": "Boneka besar",
+          "option_b": "Sangkar burung dengan burung cantik",
+          "option_c": "Topi lebar",
+          "option_d": "Sepatu baru",
+          "answer": "Sangkar burung dengan burung cantik"
+        },
+        {
+          "question": "Mengapa Aini memutuskan untuk melepaskan burung Mungil?",
+          "option_a": "Karena burung itu nakal",
+          "option_b": "Karena burung itu tidak mau makan",
+          "option_c": "Karena Mungil tampak bersedih dalam sangkar",
+          "option_d": "Karena ia ingin burung itu pergi selamanya",
+          "answer": "Karena Mungil tampak bersedih dalam sangkar"
+        },
+        {
+          "question": "Apa yang dikatakan pengasuh untuk menghibur Aini?",
+          "option_a": "Jangan menangis, burung itu akan kembali.",
+          "option_b": "Burung tidak bisa hidup lama.",
+          "option_c": "Burung sangat suka terbang dan pasti bahagia.",
+          "option_d": "Burung itu milik orang lain.",
+          "answer": "Burung sangat suka terbang dan pasti bahagia."
+        },
+        {
+          "question": "Bagaimana akhir cerita antara Aini dan Mungil?",
+          "option_a": "Mungil kembali dan tinggal di sangkar",
+          "option_b": "Mungil tidak pernah kembali lagi",
+          "option_c": "Mungil kembali setiap pagi dan membuat Aini bahagia",
+          "option_d": "Aini mendapatkan burung baru",
+          "answer": "Mungil kembali setiap pagi dan membuat Aini bahagia"
+        }
+      ]
+    },
+    {
+      "id": "bfa38743-840e-4bb3-9ac8-1fb5c226a739",
+      "title": "Balas Budi Burung Bangau",
+      "file": "Balas Budi Burung Bangau.txt",
+      "image": "Balas Budi Burung Bangau.png",
+      "description": "Balas Budi Burung Bangau bercerita tentang Yosaku yang menolong burung bangau. Burung itu kembali dalam wujud manusia sebagai Otsuru dan menjadi istrinya. Ia menenun kain indah sebagai balas budi, tapi melarang Yosaku mengintip. Saat Yosaku melanggar, Otsuru terpaksa pergi. Kisah ini mengajarkan tentang balas budi dan pentingnya menepati janji.",
+      "quizzes": [
+        {
+          "question": "Apa pekerjaan Yosaku sebelum bertemu burung bangau?",
+          "option_a": "Petani",
+          "option_b": "Penjual ikan",
+          "option_c": "Pengambil kayu bakar",
+          "option_d": "Pedagang beras",
+          "answer": "Pengambil kayu bakar"
+        },
+        {
+          "question": "Mengapa burung bangau bisa lepas dari perangkap?",
+          "option_a": "Karena badai salju mencairkan perangkap",
+          "option_b": "Karena Yosaku melepaskannya",
+          "option_c": "Karena gadis misterius menolong",
+          "option_d": "Karena perangkap rusak",
+          "answer": "Karena Yosaku melepaskannya"
+        },
+        {
+          "question": "Apa permintaan Otsuru sebelum menenun?",
+          "option_a": "Agar dibelikan benang emas",
+          "option_b": "Agar Yosaku tidak mengintip ruang tenun",
+          "option_c": "Agar diberi makanan khusus",
+          "option_d": "Agar dibantu oleh Yosaku",
+          "answer": "Agar Yosaku tidak mengintip ruang tenun"
+        },
+        {
+          "question": "Apa yang dilihat Yosaku saat mengintip ruang tenun?",
+          "option_a": "Otsuru tidur",
+          "option_b": "Ruangan kosong",
+          "option_c": "Seekor bangau sedang mencabuti bulunya",
+          "option_d": "Harta karun",
+          "answer": "Seekor bangau sedang mencabuti bulunya"
+        },
+        {
+          "question": "Apa yang terjadi setelah Yosaku mengintip?",
+          "option_a": "Otsuru marah lalu pergi",
+          "option_b": "Otsuru mengungkap jati dirinya dan pergi",
+          "option_c": "Otsuru jatuh sakit dan meninggal",
+          "option_d": "Otsuru tetap tinggal bersama Yosaku",
+          "answer": "Otsuru mengungkap jati dirinya dan pergi"
+        }
+      ]
+    },
+    {
+      "id": "5aa27b79-d4cf-4823-8743-6e2ba69b1aae",
+      "title": "Buaya Yang Tidak Jujur",
+      "file": "Buaya Yang Tidak Jujur.txt",
+      "image": "Buaya Yang Tidak Jujur.png",
+      "description": "Buaya yang Tidak Jujur mengisahkan raja buaya yang bijak saat musim kemarau. Ia membagi daging pada rakyat lewat Buaya Putih dan Buaya Hitam. Buaya Putih jujur, tapi Buaya Hitam curang dan makan sendiri. Banyak buaya mati kelaparan. Ketika ketahuan, Buaya Hitam dihukum mati. Buaya Putih pun diangkat sebagai pewaris raja karena kejujurannya. Kisah ini mengajarkan pentingnya jujur dan adil.",
+      "quizzes": [
+        {
+          "question": "Apa yang menyebabkan buaya-buaya kesulitan mendapatkan makanan?",
+          "option_a": "Raja buaya tidak adil",
+          "option_b": "Musim kemarau panjang",
+          "option_c": "Sungai terlalu dalam",
+          "option_d": "Banyak buaya pemalas",
+          "answer": "Musim kemarau panjang"
+        },
+        {
+          "question": "Siapa yang ditugaskan membagikan daging?",
+          "option_a": "Buaya Putih dan Buaya Hitam",
+          "option_b": "Buaya Belang dan Buaya Hitam",
+          "option_c": "Buaya Raja sendiri",
+          "option_d": "Semua buaya",
+          "answer": "Buaya Putih dan Buaya Hitam"
+        },
+        {
+          "question": "Apa yang dilakukan Buaya Hitam terhadap jatah makanan buaya lain?",
+          "option_a": "Dibakar",
+          "option_b": "Dimakan sendiri",
+          "option_c": "Dibuang",
+          "option_d": "Disimpan untuk besok",
+          "answer": "Dimakan sendiri"
+        },
+        {
+          "question": "Mengapa Buaya Putih memarahi Buaya Hitam?",
+          "option_a": "Karena iri",
+          "option_b": "Karena Buaya Hitam tidak membagikan makanan",
+          "option_c": "Karena ingin menjadi raja",
+          "option_d": "Karena ingin bertarung",
+          "answer": "Karena Buaya Hitam tidak membagikan makanan"
+        },
+        {
+          "question": "Apa hukuman yang diberikan Raja kepada Buaya Hitam?",
+          "option_a": "Dipenjara",
+          "option_b": "Hukuman mati",
+          "option_c": "Dibuang ke sungai lain",
+          "option_d": "Tidak boleh makan",
+          "answer": "Hukuman mati"
+        }
+      ]
+    },
+    {
+      "id": "ff3b21b0-4b53-4092-9e0a-71adc307dbdd",
+      "title": "Faiz Sayang Kepada Adik",
+      "file": "Faiz Sayang Kepada Adik.txt",
+      "image": "Faiz Sayang Kepada Adik.png",
+      "description": "Faiz Sayang Kepada Adik bercerita tentang Faiz yang menyayangi kedua adiknya. Saat adik bungsunya, Haydar, kesulitan membuat video tugas nyanyian tembang gambuh, Faiz membantu dengan sabar dan meminjamkan HP-nya. Ia juga membantu ibu menyiapkan makanan sesuai selera adik-adiknya. Kisah ini mengajarkan pentingnya kasih sayang dan sikap saling membantu dalam keluarga.",
+      "quizzes": [
+        {
+          "question": "Mengapa Haydar kesulitan membuat video tembang gambuh?",
+          "option_a": "Karena tidak terbiasa berbahasa Jawa",
+          "option_b": "Karena tidak punya kamera",
+          "option_c": "Karena tidak suka bernyanyi",
+          "option_d": "Karena tidak mengerti tugasnya",
+          "answer": "Karena tidak terbiasa berbahasa Jawa"
+        },
+        {
+          "question": "Apa sikap Faiz terhadap adik-adiknya?",
+          "option_a": "Suka memarahi",
+          "option_b": "Menyayangi dan membantu",
+          "option_c": "Cuek dan tidak peduli",
+          "option_d": "Suka membanding-bandingkan",
+          "answer": "Menyayangi dan membantu"
+        },
+        {
+          "question": "Apa yang diminta Haydar kepada Faiz?",
+          "option_a": "Dibuatkan sarapan",
+          "option_b": "Meminjam HP untuk rekam video",
+          "option_c": "Dibelikan mainan",
+          "option_d": "Disuruhkan PR",
+          "answer": "Meminjam HP untuk rekam video"
+        },
+        {
+          "question": "Apa perbedaan selera makan adik Faiz?",
+          "option_a": "Semua suka sayur",
+          "option_b": "Satu suka ikan, yang lain suka ayam",
+          "option_c": "Satu suka soto, yang lain suka bakso",
+          "option_d": "Semua suka mi instan",
+          "answer": "Satu suka ikan, yang lain suka ayam"
+        },
+        {
+          "question": "Apa pesan moral dari cerita ini?",
+          "option_a": "Harus suka ayam goreng",
+          "option_b": "Jangan menggunakan HP orang lain",
+          "option_c": "Kakak harus menyayangi dan membantu adik",
+          "option_d": "Belajar lebih penting dari keluarga",
+          "answer": "Kakak harus menyayangi dan membantu adik"
+        }
+      ]
+    },
+    {
+      "id": "9d204dc3-d6dc-4732-8189-80b0ee5c868c",
+      "title": "Haydar Tidak Tidur Saat Tarawih",
+      "file": "Haydar Tidak Tidur Saat Tarawih.txt",
+      "image": "Haydar Tidak Tidur Saat Tarawih.png",
+      "description": "Haydar selalu semangat salat Tarawih dan tidak pernah terlihat mengantuk, meski banyak orang mudah lelah setelah berbuka. Temannya, Rafa, memuji dan bertanya rahasianya. Haydar menjelaskan bahwa ia berniat kuat, tidur siang sebentar, berbuka secukupnya, tidak rebahan setelah makan, dan cukup minum air putih. Rafa pun ingin mencoba tips tersebut. Cerita ini mengajarkan semangat ibadah dan menjaga kebiasaan baik selama Ramadan.",
+      "quizzes": [
+        {
+          "question": "Apa yang membuat waktu salat Tarawih rawan rasa kantuk?",
+          "option_a": "Karena dilakukan pagi hari",
+          "option_b": "Karena dilakukan setelah salat Magrib",
+          "option_c": "Karena dilakukan malam hari setelah berbuka",
+          "option_d": "Karena dilakukan siang hari",
+          "answer": "Karena dilakukan malam hari setelah berbuka"
+        },
+        {
+          "question": "Apa yang biasanya dilakukan Haydar sebelum salat Tarawih?",
+          "option_a": "Makan besar dan rebahan",
+          "option_b": "Tidur malam lebih awal",
+          "option_c": "Tidur siang sebentar dan berbuka secukupnya",
+          "option_d": "Berolahraga berat",
+          "answer": "Tidur siang sebentar dan berbuka secukupnya"
+        },
+        {
+          "question": "Bagaimana reaksi teman-teman Haydar terhadap kebiasaannya?",
+          "option_a": "Mengabaikannya",
+          "option_b": "Memujinya karena tidak mengantuk",
+          "option_c": "Mengejeknya",
+          "option_d": "Marah padanya",
+          "answer": "Memujinya karena tidak mengantuk"
+        },
+        {
+          "question": "Siapa yang bertanya tentang tips agar tidak mengantuk saat tarawih?",
+          "option_a": "Dani",
+          "option_b": "Tono",
+          "option_c": "Rafa",
+          "option_d": "Aldi",
+          "answer": "Rafa"
+        },
+        {
+          "question": "Salah satu tips Haydar agar tetap semangat tarawih adalah...",
+          "option_a": "Tidur seharian",
+          "option_b": "Rebahan setelah makan",
+          "option_c": "Minum kopi",
+          "option_d": "Minum air putih yang cukup",
+          "answer": "Minum air putih yang cukup"
+        }
+      ]
+    },
+    {
+      "id": "5e8337d6-f007-4e61-9c89-8e797c35b6ed",
+      "title": "Keluarga Kelinci",
+      "file": "Keluarga Kelinci.txt",
+      "image": "Keluarga Kelinci.png",
+      "description": "Kelinci putih suka menyombongkan bulunya. Suatu hari, ia nekat pergi ke sungai meski diperingatkan kancil tentang adanya pemburu. Ia tertangkap dan dimasukkan ke karung. Kelinci cokelat datang mengalihkan perhatian pemburu, sementara kelinci hitam membebaskan kelinci putih. Setelah selamat, kelinci putih menyesal dan berjanji tidak sombong lagi serta mau mendengarkan nasihat. Cerita ini mengajarkan pentingnya rendah hati dan mendengarkan orang lain.",
+      "quizzes": [
+        {
+          "question": "Berapa jumlah anak yang dimiliki Ibu Kelinci?",
+          "option_a": "Dua",
+          "option_b": "Tiga",
+          "option_c": "Empat",
+          "option_d": "Lima",
+          "answer": "Tiga"
+        },
+        {
+          "question": "Sifat kelinci putih yang paling menonjol adalah...",
+          "option_a": "Pemalu",
+          "option_b": "Ramah",
+          "option_c": "Sombong",
+          "option_d": "Penakut",
+          "answer": "Sombong"
+        },
+        {
+          "question": "Mengapa kancil melarang kelinci putih pergi ke sungai?",
+          "option_a": "Karena sungainya dalam",
+          "option_b": "Karena ada buaya",
+          "option_c": "Karena ada pemburu",
+          "option_d": "Karena hari sudah malam",
+          "answer": "Karena ada pemburu"
+        },
+        {
+          "question": "Siapa yang menolong kelinci putih keluar dari karung?",
+          "option_a": "Kancil",
+          "option_b": "Ibu Kelinci",
+          "option_c": "Kelinci coklat",
+          "option_d": "Kelinci hitam",
+          "answer": "Kelinci hitam"
+        },
+        {
+          "question": "Apa pelajaran yang dipetik kelinci putih di akhir cerita?",
+          "option_a": "Jangan suka berjalan sendiri",
+          "option_b": "Jangan pergi ke sungai",
+          "option_c": "Tidak menyombongkan diri dan mendengar nasihat",
+          "option_d": "Selalu waspada terhadap pemburu",
+          "answer": "Tidak menyombongkan diri dan mendengar nasihat"
+        }
+      ]
+    },
+    {
+      "id": "27987100-15c5-41e9-8a1b-cd63d8f63b3d",
+      "title": "Landak Yang Malang",
+      "file": "Landak Yang Malang.txt",
+      "image": "Landak Yang Malang.png",
+      "description": "Didi si landak merasa kesepian karena binatang lain takut padanya. Suatu hari, ia bertemu kura-kura bernama Rara yang tak takut dan mau berteman dengannya. Saat singa datang menyerang, Didi melindungi Rara dengan duri-durinya hingga singa kabur. Rara pun menyadarkan Didi bahwa ia istimewa dan berguna. Didi akhirnya merasa bahagia karena punya teman dan percaya diri.",
+      "quizzes": [
+        {
+          "question": "Mengapa Didi si landak merasa sedih?",
+          "option_a": "Karena tidak bisa berenang",
+          "option_b": "Karena dibuang keluarganya",
+          "option_c": "Karena tidak ada yang mau berteman dengannya",
+          "option_d": "Karena tersesat",
+          "answer": "Karena tidak ada yang mau berteman dengannya"
+        },
+        {
+          "question": "Siapa nama kura-kura yang berteman dengan Didi?",
+          "option_a": "Rani",
+          "option_b": "Rara",
+          "option_c": "Riri",
+          "option_d": "Riko",
+          "answer": "Rara"
+        },
+        {
+          "question": "Apa kesamaan antara Didi dan Rara?",
+          "option_a": "Sama-sama suka makan ikan",
+          "option_b": "Sama-sama disukai banyak binatang",
+          "option_c": "Sama-sama tidak punya rumah",
+          "option_d": "Sama-sama dijauhi karena penampilannya",
+          "answer": "Sama-sama dijauhi karena penampilannya"
+        },
+        {
+          "question": "Bagaimana Didi melindungi diri dan Rara dari singa?",
+          "option_a": "Bersembunyi di gua",
+          "option_b": "Menggulungkan diri dan menyerang dengan durinya",
+          "option_c": "Melarikan diri ke air",
+          "option_d": "Berteriak minta tolong",
+          "answer": "Menggulungkan diri dan menyerang dengan durinya"
+        },
+        {
+          "question": "Apa pesan moral dari cerita Didi dan Rara?",
+          "option_a": "Jangan berjalan sendiri di hutan",
+          "option_b": "Jangan percaya pada singa",
+          "option_c": "Setiap keunikan bisa menjadi kekuatan",
+          "option_d": "Jangan suka menangis",
+          "answer": "Setiap keunikan bisa menjadi kekuatan"
+        }
+      ]
+    },
+    {
+      "id": "19a159aa-60f6-444e-a091-8bcc93c96e25",
+      "title": "Lebah Yang Sombong Dan Rakus",
+      "file": "Lebah Yang Sombong Dan Rakus.txt",
+      "image": "Lebah Yang Sombong Dan Rakus.png",
+      "description": "Lebah merasa sombong dan marah saat kupu-kupu dan kumbang datang ke hamparan bunga untuk mencari makan, karena ia tak ingin berbagi. Namun, keesokan harinya, lebah terjebak banjir akibat terlalu banyak makan dan tidak bisa terbang. Meskipun sebelumnya diperlakukan tidak baik, kupu-kupu dan kumbang tetap menolong lebah. Setelah diselamatkan, lebah sadar dan meminta maaf. Ia berjanji tidak akan sombong dan rakus lagi.",
+      "quizzes": [
+        {
+          "question": "Di mana kupu-kupu dan kumbang mencari makan?",
+          "option_a": "Di sungai",
+          "option_b": "Di hamparan bunga",
+          "option_c": "Di dalam goa",
+          "option_d": "Di atas pohon",
+          "answer": "Di hamparan bunga"
+        },
+        {
+          "question": "Mengapa lebah tidak suka kupu-kupu dan kumbang makan di hamparan bunga?",
+          "option_a": "Karena dia ingin bermain sendiri",
+          "option_b": "Karena dia takut madunya berkurang",
+          "option_c": "Karena dia tidak suka warna bunga",
+          "option_d": "Karena dia ingin terbang jauh",
+          "answer": "Karena dia takut madunya berkurang"
+        },
+        {
+          "question": "Apa yang dilakukan kupu-kupu saat lebah membentak kumbang?",
+          "option_a": "Ikut membentak lebah",
+          "option_b": "Diam saja",
+          "option_c": "Melerai pertikaian mereka",
+          "option_d": "Pergi dari sana",
+          "answer": "Melerai pertikaian mereka"
+        },
+        {
+          "question": "Kenapa lebah terjebak arus banjir?",
+          "option_a": "Karena ia bermain air",
+          "option_b": "Karena tubuhnya sakit akibat terlalu banyak makan",
+          "option_c": "Karena hujan deras",
+          "option_d": "Karena ia ingin berenang",
+          "answer": "Karena tubuhnya sakit akibat terlalu banyak makan"
+        },
+        {
+          "question": "Apa pelajaran yang bisa diambil dari cerita ini?",
+          "option_a": "Jangan sombong dan harus saling menolong",
+          "option_b": "Jangan makan banyak saat hujan",
+          "option_c": "Jangan bermain di sungai saat banjir",
+          "option_d": "Jangan berteman dengan kumbang",
+          "answer": "Jangan sombong dan harus saling menolong"
+        }
+      ]
+    },
+    {
+      "id": "2003d341-7f43-4a79-a2b6-75127c4021c1",
+      "title": "Menghormati Orang Yang Lebih Tua",
+      "file": "Menghormati Orang Yang Lebih Tua.txt",
+      "image": "Menghormati Orang Yang Lebih Tua.png",
+      "description": "Farza bertanya kepada ibunya tentang pentingnya menghormati orang yang lebih tua. Ibunya menjelaskan bahwa orang tua memiliki banyak pengalaman dan harus dimuliakan, sesuai ajaran Rasulullah. Menghormati mereka bisa dilakukan dengan sikap sopan, memberi tempat duduk, mendahulukan berbicara, dan menjaga etika, bahkan saat berbeda pendapat. Sikap ini adalah bagian dari akhlak terpuji yang harus dijaga dalam kehidupan sehari-hari.",
+      "quizzes": [
+        {
+          "question": "Mengapa kita wajib menghormati orang yang lebih tua?",
+          "option_a": "Karena mereka punya uang banyak",
+          "option_b": "Karena mereka lebih berpengalaman dan sudah menjalani hidup lebih lama",
+          "option_c": "Karena kita takut kepada mereka",
+          "option_d": "Karena mereka lebih pintar",
+          "answer": "Karena mereka lebih berpengalaman dan sudah menjalani hidup lebih lama"
+        },
+        {
+          "question": "Dalam hadits Rasulullah disebutkan orang yang tidak menghormati yang lebih tua termasuk...",
+          "option_a": "Orang yang pintar",
+          "option_b": "Golongan yang tidak mengikuti sunnah Rasulullah",
+          "option_c": "Orang yang kaya",
+          "option_d": "Orang yang rajin beribadah",
+          "answer": "Golongan yang tidak mengikuti sunnah Rasulullah"
+        },
+        {
+          "question": "Contoh adab menghormati orang yang lebih tua adalah...",
+          "option_a": "Mendahulukan mereka berbicara",
+          "option_b": "Membicarakan mereka di belakang",
+          "option_c": "Mengabaikan pendapat mereka",
+          "option_d": "Tidak perlu mengucapkan salam",
+          "answer": "Mendahulukan mereka berbicara"
+        },
+        {
+          "question": "Ketika berbeda pendapat dengan orang yang lebih tua, sikap yang harus dilakukan adalah...",
+          "option_a": "Memaksakan pendapat",
+          "option_b": "Menyampaikan dengan cara yang sopan dan penuh tata krama",
+          "option_c": "Mengabaikan mereka",
+          "option_d": "Berteriak agar didengar",
+          "answer": "Menyampaikan dengan cara yang sopan dan penuh tata krama"
+        },
+        {
+          "question": "Etika sopan santun kepada orang yang lebih tua harus...",
+          "option_a": "Dilakukan hanya saat ada orang lain",
+          "option_b": "Selalu dijaga dan ditegakkan",
+          "option_c": "Dilakukan sesekali saja",
+          "option_d": "Dilakukan hanya pada orang yang disukai",
+          "answer": "Selalu dijaga dan ditegakkan"
+        }
+      ]
+    },
+    {
+      "id": "ef489a47-77f6-463b-b87b-910c4b8fae1a",
+      "title": "Perbedaan Salat Laki Dan Perempuan",
+      "file": "Perbedaan Salat Laki Dan Perempuan.txt",
+      "image": "Perbedaan Salat Laki Dan Perempuan.png",
+      "description": "Uswah dan teman-temannya mengikuti pengajian bersama Ustazah Saudah di musala. Ustazah menjelaskan perbedaan salat antara laki-laki dan perempuan. Perempuan tidak disunahkan azan, cukup iqamah. Aurat perempuan saat salat adalah seluruh tubuh kecuali wajah dan telapak tangan, sedangkan laki-laki hanya antara pusar dan lutut. Dalam gerakan, laki-laki membentangkan siku saat rukuk dan sujud, perempuan menyempitkan. Bacaan salat laki-laki disunahkan dikeraskan, perempuan dipelankan. Jika imam salah, laki-laki menegur dengan tasbih, perempuan dengan menepuk tangan.",
+      "quizzes": [
+        {
+          "question": "Apa yang tidak disunahkan dilakukan perempuan saat salat?",
+          "option_a": "Mengumandangkan azan",
+          "option_b": "Mengucapkan iqamah",
+          "option_c": "Membaca doa",
+          "option_d": "Membentangkan siku saat rukuk",
+          "answer": "Mengumandangkan azan"
+        },
+        {
+          "question": "Aurat perempuan dalam salat adalah…",
+          "option_a": "Seluruh tubuh kecuali wajah dan telapak tangan",
+          "option_b": "Antara pusar dan lutut",
+          "option_c": "Seluruh tubuh kecuali kepala",
+          "option_d": "Hanya kaki dan tangan",
+          "answer": "Seluruh tubuh kecuali wajah dan telapak tangan"
+        },
+        {
+          "question": "Perbedaan gerakan rukuk dan sujud antara pria dan wanita adalah…",
+          "option_a": "Pria menyempitkan siku, wanita membentangkannya",
+          "option_b": "Pria membentangkan siku, wanita menyempitkan siku",
+          "option_c": "Pria dan wanita sama saja",
+          "option_d": "Pria mengecilkan suara, wanita mengeraskan suara",
+          "answer": "Pria membentangkan siku, wanita menyempitkan siku"
+        },
+        {
+          "question": "Bagaimana cara makmum perempuan mengingatkan imam saat salat?",
+          "option_a": "Membaca tasbih keras-keras",
+          "option_b": "Menepukkan tangan kanan ke tangan kiri",
+          "option_c": "Berbicara keras",
+          "option_d": "Mengacungkan tangan",
+          "answer": "Menepukkan tangan kanan ke tangan kiri"
+        }
+      ]
+    },
+    {
+      "id": "71b16986-9ad4-4151-8f9e-a8ca6cb01ef9",
+      "title": "Persahabatan Yang Saling Menasihati",
+      "file": "Persahabatan yang saling Menasihati.txt",
+      "image": "Persahabatan yang saling Menasihati.png",
+      "description": "Di tepi pantai, kura-kura menasihati kera agar tidak membuang sampah ke laut karena bisa mencemari lingkungan. Kera menyadari kesalahannya dan berjanji akan membuang sampah di tanah. Kemudian datang bangau yang sedih karena dijauhi teman-temannya. Kera dan kura-kura menasihatinya agar tetap semangat dan bersyukur. Mereka bertiga pun kembali bermain dengan gembira, saling menyemangati sebagai sahabat sejati.",
+      "quizzes": [
+        {
+          "question": "Kenapa kura-kura melarang kera membuang kulit pisang ke laut?",
+          "option_a": "Karena laut akan menjadi kotor dan mengganggu makhluk laut",
+          "option_b": "Karena laut tidak suka kulit pisang",
+          "option_c": "Karena kulit pisang tidak bisa mengapung",
+          "option_d": "Karena kera harus makan kulit pisang juga",
+          "answer": "Karena laut akan menjadi kotor dan mengganggu makhluk laut"
+        },
+        {
+          "question": "Bagaimana sebaiknya membuang kulit pisang menurut kura-kura?",
+          "option_a": "Dibuang ke laut",
+          "option_b": "Dibuang ke tanah dan dikubur supaya menyuburkan tanah",
+          "option_c": "Dibuang di jalan",
+          "option_d": "Diberi ke burung",
+          "answer": "Dibuang ke tanah dan dikubur supaya menyuburkan tanah"
+        },
+        {
+          "question": "Mengapa burung bangau sedih?",
+          "option_a": "Karena tidak bisa berenang",
+          "option_b": "Karena dijauhi teman-temannya karena tidak bisa terbang sejauh mereka",
+          "option_c": "Karena lapar",
+          "option_d": "Karena tidak bisa makan pisang",
+          "answer": "Karena dijauhi teman-temannya karena tidak bisa terbang sejauh mereka"
+        },
+        {
+          "question": "Apa nasihat kera kepada bangau?",
+          "option_a": "Jangan sedih dan jangan putus asa, setiap makhluk punya kelebihan dan kekurangan",
+          "option_b": "Jangan bermain dengan teman",
+          "option_c": "Terus sedih saja",
+          "option_d": "Jangan makan pisang",
+          "answer": "Jangan sedih dan jangan putus asa, setiap makhluk punya kelebihan dan kekurangan"
+        },
+        {
+          "question": "Apa pesan kura-kura kepada bangau?",
+          "option_a": "Tetaplah menjadi bangau yang baik dan bersyukur atas kesehatan yang diberikan",
+          "option_b": "Jangan bermain dengan mereka",
+          "option_c": "Selalu mengeluh",
+          "option_d": "Jangan terbang",
+          "answer": "Tetaplah menjadi bangau yang baik dan bersyukur atas kesehatan yang diberikan"
+        }
+      ]
+    },
+    {
+      "id": "8828c447-4e96-4e87-a74c-293954121fe2",
+      "title": "Sopan Santun Kepada Kakek Dan Nenek",
+      "file": "Sopan Santun kepada Kakek dan Nenek.txt",
+      "image": "Sopan Santun kepada Kakek dan Nenek.png",
+      "description": "Mashobiha senang pergi berlibur ke rumah kakek dan nenek. Di perjalanan, ia bertanya kepada ibunya tentang pentingnya menghormati mereka. Ibu menjelaskan bahwa kakek dan nenek adalah orang tua dari orang tua, sehingga harus dihormati dengan sikap sopan, sabar, dan tidak berkata kasar. Mashobiha pun memahami dan berjanji akan bersikap hormat kepada mereka.",
+      "quizzes": [
+        {
+          "question": "Mengapa kita harus menghormati kakek dan nenek?",
+          "option_a": "Karena mereka adalah sesepuh dan orang tua dari ibu",
+          "option_b": "Karena mereka selalu memberi uang",
+          "option_c": "Karena mereka selalu mengajak jalan-jalan",
+          "option_d": "Karena mereka suka bermain",
+          "answer": "Karena mereka adalah sesepuh dan orang tua dari ibu"
+        },
+        {
+          "question": "Sikap sopan santun seperti apa yang harus ditunjukkan kepada kakek dan nenek?",
+          "option_a": "Memperbolehkan mereka mengambil makanan terlebih dahulu",
+          "option_b": "Berbicara kasar agar mereka cepat diam",
+          "option_c": "Mengabaikan saat mereka berbicara",
+          "option_d": "Berteriak supaya didengar",
+          "answer": "Memperbolehkan mereka mengambil makanan terlebih dahulu"
+        },
+        {
+          "question": "Mengapa anak harus ekstra sabar kepada kakek dan nenek?",
+          "option_a": "Karena mereka bisa menjadi seperti anak kecil dan mudah tersinggung",
+          "option_b": "Karena mereka selalu benar",
+          "option_c": "Karena mereka tidak suka anak-anak",
+          "option_d": "Karena mereka tidak mendengarkan",
+          "answer": "Karena mereka bisa menjadi seperti anak kecil dan mudah tersinggung"
+        }
+      ]
+    },
+    {
+      "id": "8eb695f3-845c-45be-abed-b46df125f87c",
+      "title": "Teman Baru",
+      "file": "Teman Baru.txt",
+      "image": "Teman Baru.png",
+      "description": "Teci, seekor anjing lucu yang hidup mewah, merasa kesepian karena tuannya jarang bermain dengannya. Suatu hari, seekor kucing jalanan bernama Sake masuk ke halaman rumah Teci. Awalnya Sake takut, tapi Teci justru ingin berteman. Meskipun berbeda latar belakang, mereka akhirnya bermain bersama. Sejak saat itu, Teci tidak merasa kesepian lagi karena telah memiliki teman baru.",
+      "quizzes": [
+        {
+          "question": "Mengapa Teci merasa kesepian?",
+          "option_a": "Karena tuannya jarang mengajaknya bermain",
+          "option_b": "Karena dia tidak punya rumah",
+          "option_c": "Karena dia tidak suka bermain",
+          "option_d": "Karena dia sering sakit",
+          "answer": "Karena tuannya jarang mengajaknya bermain"
+        },
+        {
+          "question": "Siapa nama kucing yang ditemui Teci?",
+          "option_a": "Sake",
+          "option_b": "Suka",
+          "option_c": "Sari",
+          "option_d": "Sita",
+          "answer": "Sake"
+        },
+        {
+          "question": "Mengapa Sake merasa tidak pantas berteman dengan Teci?",
+          "option_a": "Karena Teci anjing mewah dan Sake kucing jalanan tanpa rumah",
+          "option_b": "Karena Teci tidak suka kucing",
+          "option_c": "Karena Sake takut anjing",
+          "option_d": "Karena mereka berbeda warna",
+          "answer": "Karena Teci anjing mewah dan Sake kucing jalanan tanpa rumah"
+        },
+        {
+          "question": "Apa yang akhirnya dilakukan Sake?",
+          "option_a": "Menjadi teman Teci dan bermain bersama",
+          "option_b": "Pergi jauh dari rumah Teci",
+          "option_c": "Menangis di jalan",
+          "option_d": "Tidak mau berteman",
+          "answer": "Menjadi teman Teci dan bermain bersama"
+        }
+      ]
+    },
+    {
+      "id": "4809d2af-d813-4d3e-b372-70b5e1a0c8db",
+      "title": "Uswah Cinta Al-Qur’an",
+      "file": "Uswah Cinta Al-Qur’an.txt",
+      "image": "Uswah Cinta Al-Qur’an.png",
+      "description": "Uswah rajin salat Maghrib dan mengaji di masjid hingga salat Isya. Suatu malam, ia dan temannya Syifa belajar hukum tajwid bersama Ustazah Ahsadah. Tajwid membuat bacaan Al-Qur’an menjadi benar dan indah. Mereka belajar tentang cara membaca dengan tartil dan memahami makhraj huruf. Uswah sangat mencintai Al-Qur’an, ia rajin membaca, memahami maknanya, serta mengamalkan isinya dalam kehidupan sehari-hari.",
+      "quizzes": [
+        {
+          "question": "Apa arti kata \"tajwid\"?",
+          "option_a": "Cara membaca Al-Qur’an dengan cepat",
+          "option_b": "Cara mengeluarkan huruf dari tempatnya dengan benar dan sifat-sifatnya",
+          "option_c": "Cara menghafal Al-Qur’an",
+          "option_d": "Cara menulis huruf Arab",
+          "answer": "Cara mengeluarkan huruf dari tempatnya dengan benar dan sifat-sifatnya"
+        },
+        {
+          "question": "Contoh hukum tajwid yang dipelajari adalah…",
+          "option_a": "Idzhar Halqi dan Idgham Bighunnah",
+          "option_b": "Idzhar dan Membaca cepat",
+          "option_c": "Membaca keras dan berbisik",
+          "option_d": "Menulis dan menggambar",
+          "answer": "Idzhar Halqi dan Idgham Bighunnah"
+        },
+        {
+          "question": "Apa arti tartil dalam membaca Al-Qur’an?",
+          "option_a": "Membaca cepat",
+          "option_b": "Membaca perlahan-lahan dengan baik",
+          "option_c": "Membaca sambil bernyanyi",
+          "option_d": "Membaca dengan keras",
+          "answer": "Membaca perlahan-lahan dengan baik"
+        },
+        {
+          "question": "Bagaimana sikap Uswah terhadap Al-Qur’an?",
+          "option_a": "Rajin membaca, memahami, mendengarkan, dan mengamalkan",
+          "option_b": "Jarang membaca",
+          "option_c": "Hanya mendengarkan tanpa mengerti",
+          "option_d": "Tidak suka mengaji",
+          "answer": "Rajin membaca, memahami, mendengarkan, dan mengamalkan"
+        }
+      ]
+    },
+    {
+      "id": "8fdaae17-2c8a-4367-ae45-3bb5d13abeac",
+      "title": "Mendahulukan Posisi Tidur Menghadap Kanan",
+      "file": "Mendahulukan Posisi Tidur Menghadap Kanan.txt",
+      "image": "Mendahulukan Posisi Tidur Menghadap Kanan.png",
+      "description": "Davian bertanya pada ayahnya mengapa tidur miring ke kanan disarankan. Ayah menjelaskan bahwa Rasulullah menganjurkan posisi tersebut dan menyebutkan manfaatnya, baik dari sisi agama maupun kesehatan. Tidur menghadap kanan bisa memberi pahala dan menyehatkan tubuh, seperti mengurangi beban jantung dan mempercepat penyerapan gizi. Setelah mendengar penjelasan ayahnya, Davian bertekad untuk meneladani Rasulullah dengan tidur miring ke kanan setiap malam.",
+      "quizzes": [
+        {
+          "question": "Posisi tidur yang dianjurkan oleh Rasulullah adalah tidur dengan berbaring di atas...",
+          "option_a": "Rusuk kiri",
+          "option_b": "Punggung",
+          "option_c": "Rusuk kanan",
+          "option_d": "Perut",
+          "answer": "Rusuk kanan"
+        },
+        {
+          "question": "Salah satu manfaat tidur miring ke kanan adalah...",
+          "option_a": "Mengurangi rasa kantuk",
+          "option_b": "Mengistirahatkan otak sebelah kiri",
+          "option_c": "Membuat perut kenyang",
+          "option_d": "Mengurangi berat badan",
+          "answer": "Mengistirahatkan otak sebelah kiri"
+        },
+        {
+          "question": "Apa alasan utama Davian ingin tidur miring ke kanan?",
+          "option_a": "Karena ayahnya memaksa",
+          "option_b": "Karena ingin meneladani Rasulullah",
+          "option_c": "Karena takut gelap",
+          "option_d": "Karena rasa kantuknya hilang",
+          "answer": "Karena ingin meneladani Rasulullah"
+        },
+        {
+          "question": "Tidur miring ke kanan dapat membantu mengurangi beban pada...",
+          "option_a": "Lambung",
+          "option_b": "Jantung",
+          "option_c": "Paru-paru",
+          "option_d": "Otak",
+          "answer": "Jantung"
+        },
+        {
+          "question": "Tidur miring ke kanan dapat mempercepat pengeluaran cairan di...",
+          "option_a": "Paru-paru",
+          "option_b": "Otak",
+          "option_c": "Usus",
+          "option_d": "Ginjal",
+          "answer": "Usus"
+        }
+      ]
+    },
+    {
+      "id": "fb643ea7-23b5-4e46-89f9-364c33cd47a8",
+      "title": "Selalu Menjaga Sopan Santun dalam Pergaulan",
+      "file": "Selalu Menjaga Sopan Santun dalam Pergaulan.txt",
+      "image": "Selalu Menjaga Sopan Santun dalam Pergaulan.png",
+      "description": "Kenzie, anak sembilan tahun yang santun, suka membaca dan sering mengunjungi perpustakaan sekolah. Ia selalu menjaga etika dalam pergaulan, seperti meminta maaf jika terlambat, mengucapkan terima kasih, dan menggunakan kata tolong saat menyuruh. Karena sikapnya yang sopan, Kenzie punya banyak teman. Suatu hari, ia membawa bekal makanan untuk dibagi ke teman sekelas. Semua teman merasa senang dan berterima kasih. Sopan santun yang diajarkan ibunya membuat Kenzie disukai banyak orang.",
+      "quizzes": [
+        {
+          "question": "Siapa nama tokoh utama dalam cerita 'Selalu Menjaga Sopan Santun dalam Pergaulan'?",
+          "option_a": "Davin",
+          "option_b": "Kenzie",
+          "option_c": "Sake",
+          "option_d": "Uswah",
+          "answer": "Kenzie"
+        },
+        {
+          "question": "Apa kebiasaan Kenzie di sekolah?",
+          "option_a": "Bermain di halaman",
+          "option_b": "Tidur di perpustakaan",
+          "option_c": "Rajin berkunjung ke perpustakaan dan meminjam buku",
+          "option_d": "Selalu datang terlambat",
+          "answer": "Rajin berkunjung ke perpustakaan dan meminjam buku"
+        },
+        {
+          "question": "Mengapa teman-teman Kenzie terlihat bingung saat di perpustakaan?",
+          "option_a": "Karena buku habis",
+          "option_b": "Karena ada tugas kelompok dari Ibu Guru",
+          "option_c": "Karena Kenzie membawa makanan",
+          "option_d": "Karena Kenzie datang pagi",
+          "answer": "Karena ada tugas kelompok dari Ibu Guru"
+        },
+        {
+          "question": "Apa yang selalu dilakukan Kenzie jika ia melakukan kesalahan?",
+          "option_a": "Diam saja",
+          "option_b": "Membela diri",
+          "option_c": "Segera meminta maaf",
+          "option_d": "Meninggalkan tempat",
+          "answer": "Segera meminta maaf"
+        },
+        {
+          "question": "Kalimat apa yang digunakan Kenzie ketika menyuruh seseorang?",
+          "option_a": "Ayo cepat!",
+          "option_b": "Lakukan sekarang!",
+          "option_c": "Tolong",
+          "option_d": "Kerjakan!",
+          "answer": "Tolong"
+        },
+        {
+          "question": "Apa reaksi teman-teman saat Kenzie membawa bekal makanan untuk berbagi?",
+          "option_a": "Diam dan malu",
+          "option_b": "Marah karena tidak suka",
+          "option_c": "Senang dan berterima kasih",
+          "option_d": "Pergi meninggalkan kelas",
+          "answer": "Senang dan berterima kasih"
+        },
+        {
+          "question": "Siapa yang mengajarkan Kenzie sopan santun dalam pergaulan?",
+          "option_a": "Ibu Kenzie",
+          "option_b": "Guru sekolah",
+          "option_c": "Teman-teman",
+          "option_d": "Ayah temannya",
+          "answer": "Ibu Kenzie"
+        }
+      ]
+    }
+  ]
+}
