@@ -1,15 +1,15 @@
 <script>
   import { onMount } from "svelte";
-  import { isDyslexic, changeFont } from "../stores/theme.js";
+  import { isDyslexic } from "../stores/theme.js";
 
   const { params } = $props();
   const quizId = params.id;
 
   let story = $state(null);
   let textareaEl = $state("");
-  let voiceSelectEl;
+  // let voiceSelectEl;
 
-  let selectedAzureGender;
+  // let selectedAzureGender;
   let audioEl;
 
   let rate = $state(1);
@@ -17,12 +17,12 @@
   let volume = $state(1);
   let isPlaying = $state(false);
   let isPaused = $state(false);
-  let voices = $state([]);
+  // let voices = $state([]);
 
   let azureVoices = $state([]);
   let selectedAzureVoice = $state("");
 
-  let utterance;
+  // let utterance;
 
   onMount(async () => {
     try {
@@ -139,6 +139,7 @@
   function resumeSpeech() {
     if (audioEl && audioEl.paused) {
       audioEl.play();
+
       isPlaying = true;
       isPaused = false;
     }

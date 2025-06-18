@@ -1,6 +1,6 @@
 <script>
   import { onMount } from "svelte";
-  import { isDyslexic, changeFont } from "../stores/theme.js";
+  import { isDyslexic } from "../stores/theme.js";
 
   const { params } = $props();
   const id = params.id;
