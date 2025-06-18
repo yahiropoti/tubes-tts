@@ -14,7 +14,7 @@ Aplikasi web yang inklusif dan edukatif untuk membantu anak-anak dan individu de
 1. Clone & Install
 ```bash
 # Clone repositori
-git clone https://github.com/yahiropoti/tubes-tts.git
+git clone -b svelte-ui https://github.com/yahiropoti/tubes-tts.git
 cd tubes-tts
 
 # Instal dependensi
